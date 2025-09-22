@@ -10,10 +10,17 @@ The goal is to transform the currently non-digital registry into an interoperabl
 
 ## Consortium
 
-| Partner | Institution |
-|---|---|
-| Coordinator | AWMF-Institute for Medical Knowledge Management (AWMF e. V.) |
-| Partners | Albert-Ludwigs-University Freiburg; aQua Institute for Applied Quality Improvement and Research in Healthcare; Charité – Universitätsmedizin Berlin; German Society for Wound Healing and Wound Treatment (DGfW); Howto Health GmbH; University Medicine Greifswald |
+**Coordinator**
+* Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) e.V.
+
+**Partners**
+* Albert-Ludwigs-Universität Freiburg  
+* aQua - Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH 
+* Charité – Universitätsmedizin Berlin  
+* Deutsche Gesellschaft für Wundheilung und Wundbehandlung e. V.  
+* Howto Health GmbH  
+* Universitätsmedizin Greifswald  
+
 
 ## Scope / Features
 
@@ -26,9 +33,9 @@ This repository will contain:
 
 **Project lead:**  
 Prof. Dr. Ina B. Kopp  
-Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V.
-AWMF-Institut für Medizinisches Wissensmanagement
-Email: kopp (at) awmf.org
+Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften e. V.  
+AWMF-Institut für Medizinisches Wissensmanagement  
+Email: kopp (at) awmf.org  
 
 **Development Team (alphabetical order)**
 * [Sophie Klopfenstein](https://github.com/klsophie) (Berlin Institute of Health at Charité – Universitätsmedizin Berlin)
